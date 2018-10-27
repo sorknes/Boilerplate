@@ -1,0 +1,9 @@
+{
+  "name": "Boilerplate",
+  "version": "0.0.1",
+  "description": "Yarn, Webpack, React and Scss boilerplate for all types of projects",
+  "main": "index.js",
+  "repository": "https://github.com/sorknes/Boilerplate.git",
+  "author": "Knut A. Sorknes <knut.sorknes@gmail.com>",
+  "license": "MIT"
+}
