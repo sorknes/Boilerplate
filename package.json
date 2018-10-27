@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/sorknes/Boilerplate.git",
   "author": "Knut A. Sorknes <knut.sorknes@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
 }
