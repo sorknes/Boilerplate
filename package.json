@@ -7,6 +7,8 @@
   "author": "Knut A. Sorknes <knut.sorknes@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^5.8.0",
+    "install": "^0.12.2",
     "webpack": "^4.23.1",
     "webpack-cli": "^3.1.2"
   }
